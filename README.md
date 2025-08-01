@@ -10,6 +10,9 @@ This is a personal portfolio website showcasing my projects, skills, and profess
 - Contact: A contact form or links to reach out via email or social media.
 
 Email: [shreyamittal1005@gmail.com]
-GitHub: [github.com/shrxyyya]
-LinkedIn: [linkedin.com/in/shreya-mittal3]
-Portfolio: []
+
+GitHub: [github.com/shrxyyya](https://github.com/shrxyyya)
+
+LinkedIn: [linkedin.com/in/shreya-mittal3](https://www.linkedin.com/in/shreya-mittal3/)
+
+Portfolio: [https://my-portfolio-website-lake-theta.vercel.app/]
