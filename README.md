@@ -9,6 +9,8 @@ This is a personal portfolio website showcasing my projects, skills, and profess
 - Experience: A list of internships with descriptions of my work, along with technologies used and related links.
 - Contact: A contact form or links to reach out via email or social media.
 
+---
+
 Email: shreyamittal1005@gmail.com
 
 GitHub: [github.com/shrxyyya](https://github.com/shrxyyya)
